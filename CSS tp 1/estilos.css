@@ -1,0 +1,15 @@
+.hola {
+	size: 20px;
+	color: red;
+	border: 2px;
+}
+
+.chau {
+	size: 15px;
+	color: rgba(20,65,45,0.5);
+	border: 1px;
+}
+
+.subtitulo {
+	color: blue;
+}
